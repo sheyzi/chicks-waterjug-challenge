@@ -1,6 +1,9 @@
 # Water Jug Solver
 
+![Water Jug Solver Demo](./static/demo.gif)
+
 This is an interactive web application that helps you to solve the classic Water Jug Riddle using BFS (Breadth-First Search). 
+
 
 ## The Challenge
 
