@@ -59,10 +59,22 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Oluwaseyifunmi Water Jug Solver</title>
+	<meta
+		name="description"
+		content="Solve the classic water jug riddle using BFS. Interactive web app to find the shortest steps to measure exact amounts with two jugs."
+	/>
+	<link rel="icon" href="/favicon.ico" />
+</svelte:head>
+
 <div class="container">
 	<header>
-		<h1>Oluwaseyifunmi Water Jug Challenge</h1>
-		<p>This is my solution to the chicks water jug task</p>
+		<h1>Oluwaseyifunmi Water Jug Solver</h1>
+		<p>
+			This is an interactive web application that helps you solve the classic Water Jug Riddle using
+			BFS (Breadth-First Search).
+		</p>
 	</header>
 
 	<main>
